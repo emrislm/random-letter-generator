@@ -65,10 +65,10 @@ button a, button a:focus, button a:active, button a:hover {
     .headerTxt, .headerInput {
         width: 100%;   
     }
-    #inputLB, #inputRB {
+    /* #inputLB, #inputRB {
         margin: 0 auto 20px auto !important;
         width: 75%;
-    }
+    } */
     #inputBtn {
         width: 30%;
     }
